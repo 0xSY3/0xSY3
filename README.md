@@ -29,4 +29,4 @@
 
 <br>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
+(https://github.com/0xSY3/0xSY3/blob/main//THM.png)<br>
