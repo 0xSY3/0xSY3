@@ -27,4 +27,4 @@
 
 <br>
 <p align="center"> 
-![C3n7ral051nt4g3ncy's tryhackme stats](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/blob/main/assets/thm_propic.png)<br>
+<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
