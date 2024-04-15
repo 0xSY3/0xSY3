@@ -21,7 +21,6 @@
 
 <p align="center">
 
-![0xSY3's tryhackme stats](https://github.com/0xSY3/0xSY3/THM.png)<br>
 </p>
 
 
