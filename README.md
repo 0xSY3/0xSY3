@@ -21,7 +21,11 @@
 
 
 <p align="center">
-<script src="https://tryhackme.com/badge/670610"></script>
+
 <br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xSY3.png" alt="TryHackMe">
 </p>
+
+<p align="center">
+
+     🏴‍☠️ TryHackMe Top 1% | Username: 0xSY3
