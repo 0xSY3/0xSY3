@@ -18,3 +18,10 @@
 <br>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
+
+
+<p align="center">
+<script src="https://tryhackme.com/badge/670610"></script>
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xSY3.png" alt="TryHackMe">
+</p>
