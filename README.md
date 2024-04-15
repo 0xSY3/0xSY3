@@ -15,10 +15,9 @@
       
 <br>
 
-<br>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
+<p align="center">
 
+     🏴‍☠️ TryHackMe Top 1% | Username: 0xSY3
 
 <p align="center">
 
@@ -26,6 +25,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xSY3.png" alt="TryHackMe">
 </p>
 
-<p align="center">
 
-     🏴‍☠️ TryHackMe Top 1% | Username: 0xSY3
+
+<br>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
