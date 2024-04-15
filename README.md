@@ -20,7 +20,7 @@
      🏴‍☠️ TryHackMe Top 1% | Username: 0xSY3
 
 <p align="center">
-<img width="200" src="https://github.com/0xSY3/0xSY3/blob/main/THM.png" alt="0xSY3's tryhackme stats"><br>
+<img width="500" src="https://github.com/0xSY3/0xSY3/blob/main/THM.png" alt="0xSY3's tryhackme stats"><br>
 </p>
 
 
