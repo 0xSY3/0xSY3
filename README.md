@@ -16,3 +16,5 @@
 <br>
 
 <br>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
