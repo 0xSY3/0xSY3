@@ -12,7 +12,7 @@
 
 ###  <p align="center"> ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ SECURITY ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
 <br>
-      
+
 <br>
 
 <p align="center">
