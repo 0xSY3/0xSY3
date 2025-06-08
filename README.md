@@ -1,47 +1,41 @@
 <div align="center">
-
+  <h1>👋 Hi, I'm Sahil Wasnik</h1>
+  <h3>Blockchain Engineer | Protocol Researcher | 12x Hackathon Winner</h3>
 </div>
 
-<br>
-<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
-<br>
-<br>
+---
 
-      
-## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` and Welcome! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=55F700&center=true&vCenter=true&multiline=true&random=false&width=435&height=133&lines=%24whoami+;Sahil+;%5Baka+SY3%5D)](https://git.io/typing-svg)</p>
+### 🚀 About Me
 
-###  <p align="center"> on GitHub to share knowledge | build | contribute | and to learn. </p>    
-<br>
+Blockchain Engineer specializing in smart contract development, protocol research, and cross-chain infrastructure. Currently building innovative Web3 applications and contributing to the advancement of decentralized systems.
 
-<br>
+**Current Work:**
+- 🏗️ Co-founding **ShillTube** - Vtuber AI token launchpad (Starknet Accelerator)
+- 🔬 Researching **Uniswap v4 hooks** and cross-chain mechanisms
+- 🛡️ Smart contract security and protocol auditing
 
-<p align="center">
+### 🛠️ Tech Stack
 
-     🏴‍☠️ TryHackMe Top 1% | Username: 0xSY3
+**Languages:** Solidity, Rust, Go, TypeScript, Python  
+**Blockchain:** Ethereum, NEAR, Starknet, Base, Solana, Flare  
+**Tools:** Foundry, Hardhat, Anchor, Remix  
+**AI/ML:**  OpenAI APIs, LangChain  
 
-<p align="center">
-<img width="400" src="https://github.com/0xSY3/0xSY3/blob/main/THM.png" alt="0xSY3's tryhackme stats"><br>
-</p>
+### 🏆 Achievements
 
-
-<br>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=0xSY3&label=Profile%20views&color=blueviolet&style=flat" alt="0xSY3"/></p>
+- 🎯 **12x Global Web3 Hackathon Winner** across major ecosystems
+- 🌍 Built on **8+ blockchain networks**
+- 🏴‍☠️ **TryHackMe Top 1%** in cybersecurity
 
 
+### 🔗 Connect
 
+[![Email](https://img.shields.io/badge/Email-04syee@gmail.com-red)](mailto:04syee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilwasnik-blue)](https://linkedin.com/in/sahilwasnik)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0xSY3-green)](https://tryhackme.com/p/0xSY3)
 
-**About Me:**
+---
 
-I'm Sahil Wasnik, also known as 0xSY3. I'm a cybersecurity enthusiast and blockchain developer passionate about exploring the intersection of these two exciting fields. I love diving deep into the technical aspects of blockchain technology, building innovative tools, and sharing my knowledge with the community.
-
-**My Interests:**
-
-* **Cybersecurity:** Penetration testing, ethical hacking, and vulnerability research.
-* **Blockchain Development:** Smart contracts, decentralized applications (DApps), blockchain research, distributed systems, consensus mechanisms, and Cryptography. 
-
-**Connect with me:**
-
-* **TryHackMe:** [0xSY3](https://tryhackme.com/p/0xSY3)
-* **GitHub:** [0xSY3](https://github.com/0xSY3) 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xSY3&color=blue" alt="Profile Views" />
+</div>
