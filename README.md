@@ -1,6 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Sahil Wasnik</h1>
   <h3>Blockchain Engineer | Protocol Researcher | 12x Hackathon Winner</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange?style=for-the-badge)](https://sahilwasnik.tech)
 </div>
 
 ---
@@ -19,7 +21,7 @@ Blockchain Engineer specializing in smart contract development, protocol researc
 **Languages:** Solidity, Rust, Go, TypeScript, Python  
 **Blockchain:** Ethereum, NEAR, Starknet, Base, Solana, Flare  
 **Tools:** Foundry, Hardhat, Anchor, Remix  
-**AI/ML:**  OpenAI APIs, LangChain  
+**AI/ML:** OpenAI APIs, LangChain  
 
 ### 🏆 Achievements
 
@@ -27,9 +29,9 @@ Blockchain Engineer specializing in smart contract development, protocol researc
 - 🌍 Built on **8+ blockchain networks**
 - 🏴‍☠️ **TryHackMe Top 1%** in cybersecurity
 
-
 ### 🔗 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange)](https://sahilwasnik.tech)
 [![Email](https://img.shields.io/badge/Email-04syee@gmail.com-red)](mailto:04syee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilwasnik-blue)](https://linkedin.com/in/sahilwasnik)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0xSY3-green)](https://tryhackme.com/p/0xSY3)
