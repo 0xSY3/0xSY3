@@ -26,7 +26,7 @@ Currently diving deep into:
 ---
 
 ## 🏆 Highlights  
-- 🥇 **12x Global Web3 Hackathon Winner** (ETHGlobal, Encode, and more)  
+- 🥇 **13x Global Web3 Hackathon Winner** (ETHGlobal, Encode, and more)  
 - 🌍 Built and deployed across **8+ blockchain networks**  
 - 🔧 Actively contributing to zk and rollup-based systems  
 - 🧑‍💻 **TryHackMe Top 1%** in blockchain & smart contract security  
