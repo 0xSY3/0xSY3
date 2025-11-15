@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sahil Wasnik  
 **Blockchain Engineer | Smart Contract Developer | 13x Web3 Hackathon Winner**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange?style=for-the-badge)](https://sahilwasnik.tech)
 
 ---
 
@@ -34,6 +35,8 @@ Currently diving deep into:
 
 ### 📬 Let's Connect  
 Feel free to reach out for open-source collabs, hackathons, or protocol work!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange)](https://sahilwasnik.tech)
 
 [![Email](https://img.shields.io/badge/Email-04syee@gmail.com-red)](mailto:04syee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilwasnik-blue)](https://linkedin.com/in/sahilwasnik)
