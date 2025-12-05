@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sahil Wasnik
-**Blockchain Engineer @ Tokamak Network | Protocol Designer | 13x Web3 Hackathon Winner**
+**Blockchain Engineer @ Tokamak Network**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange?style=for-the-badge)](https://sahilwasnik.tech)
 
