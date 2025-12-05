@@ -6,37 +6,37 @@
 ---
 
 ## 🚀 About Me
-I’m a blockchain developer focused on **protocol design**, infrastructure engineering, and scaling solutions.
+I’m a blockchain developer focused on **protocol design**, infrastructure engineering, and scaling solutions for decentralized systems.
 
-**I am currently a Blockchain Engineer at Tokamak Network**, contributing to the development of modular infrastructure and Layer 2 scaling solutions. I’ve built full-stack Web3 applications, explored rollup frameworks and ZK proving systems, and contributed across multiple ecosystems and toolchains.
+**I am currently a Blockchain Engineer at Tokamak Network**, where I contribute to the development of modular infrastructure and Layer 2 scaling solutions. I’ve built full-stack Web3 applications, explored **rollup architectures** and ZK proving systems, and contributed across multiple ecosystems and toolchains.
 
-Currently diving deep into:
-- 🔬 Modular rollups, sequencer design, and zkEVM constraint systems
-- ⚡ Cross-chain tooling, Uniswap v4 hooks, LayerZero, and Celestia DA
-- 🧪 zk circuits, proving backends, and hybrid rollup models
-- ⚙️ Rapid prototyping with Foundry, Hardhat, and TypeScript
+### Key Areas of Deep Dive:
+- 🔬 **Modular Scaling:** Modular rollups, decentralized sequencer design, and zkEVM constraint systems.
+- ⚡ **Interoperability & Infra:** Cross-chain tooling, Shared Sequencer models, and integration with modular DA layers.
+- 🧪 **Zero-Knowledge:** zk circuits, proving backends.
+- ⚙️ **Developer Experience:** Rapid prototyping and testing.
 
 ---
 
 ## 🔨 Tech Stack
-**Languages:** Solidity, TypeScript, Go, Rust, Python
-**Frameworks/Tools:** Foundry, Hardhat, Ethers.js, React, Anchor
-**Chains:** Ethereum, Starknet, Base, Solana, NEAR, Flare
-**Infra:** zkEVM playgrounds, optimistic rollups, modular DA, Rollup SDKs
-**AI/ML:** OpenAI APIs, LangChain, custom GPT agents
+| Category | Keywords |
+| :--- | :--- |
+| **Languages** | Solidity, TypeScript, Go, Rust, Python |
+| **Frameworks/Tools** | **Foundry** (primary), Hardhat, Ethers.js, React |
+| **Infra/Concepts** | ZKP, Optimistic Rollups, Modular DA, Rollup SDKs, Shared Sequencers, **zkEVM** |
+| **AI/ML** | OpenAI APIs, LangChain, custom GPT agents |
 
 ---
 
 ## 🏆 Highlights
-- 🥇 **13x Global Web3 Hackathon Winner** (ETHGlobal, Encode, and more)
-- 🌍 Built and deployed across **8+ blockchain networks**
-- 🔧 Actively contributing to zk and rollup-based systems
-- 🧑‍💻 **TryHackMe Top 1%** in blockchain & system security
+- 🥇 **13+ Global Web3 Hackathon Winner** (ETHGlobal, Encode, etc.)
+- 🌍 Designed, built, and deployed applications across **8+ blockchain networks**.
+- 🧑‍💻 **TryHackMe Top 1%** in blockchain & system security.
 
 ---
 
 ### 📬 Let's Connect
-Feel free to reach out for open-source collabs, hackathons, or protocol work!
+Feel free to reach out for open-source collaborations, or protocol development work!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange)](https://sahilwasnik.tech)
 [![Email](https://img.shields.io/badge/Email-04syee@gmail.com-red)](mailto:04syee@gmail.com)
