@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sahil Wasnik
-**Blockchain Engineer @ Tokamak Network | Smart Contract Developer | 13x Web3 Hackathon Winner**
+**Blockchain Engineer @ Tokamak Network | Protocol Designer | 13x Web3 Hackathon Winner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilwasnik.tech-orange?style=for-the-badge)](https://sahilwasnik.tech)
 
 ---
 
 ## 🚀 About Me
-I’m a blockchain developer focused on smart contract engineering, protocol design, and cross-chain infrastructure.
+I’m a blockchain developer focused on **protocol design**, infrastructure engineering, and scaling solutions.
 
-**I am currently a Blockchain Engineer at Tokamak Network**, contributing to the development of modular infrastructure and Layer 2 scaling solutions. I’ve built full-stack Web3 apps, explored rollup frameworks and ZK proving systems, and contributed across multiple ecosystems and toolchains.
+**I am currently a Blockchain Engineer at Tokamak Network**, contributing to the development of modular infrastructure and Layer 2 scaling solutions. I’ve built full-stack Web3 applications, explored rollup frameworks and ZK proving systems, and contributed across multiple ecosystems and toolchains.
 
 Currently diving deep into:
 - 🔬 Modular rollups, sequencer design, and zkEVM constraint systems
@@ -31,7 +31,7 @@ Currently diving deep into:
 - 🥇 **13x Global Web3 Hackathon Winner** (ETHGlobal, Encode, and more)
 - 🌍 Built and deployed across **8+ blockchain networks**
 - 🔧 Actively contributing to zk and rollup-based systems
-- 🧑‍💻 **TryHackMe Top 1%** in blockchain & smart contract security
+- 🧑‍💻 **TryHackMe Top 1%** in blockchain & system security
 
 ---
 
