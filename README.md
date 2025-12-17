@@ -31,7 +31,7 @@ I’m a blockchain developer focused on **protocol design**, infrastructure engi
 ## 🏆 Highlights
 - 🥇 **13+ Global Web3 Hackathon Winner** (ETHGlobal, Encode, etc.)
 - 🌍 Designed, built, and deployed applications across **8+ blockchain networks**.
-- 🧑‍💻 **TryHackMe Top 1%** in blockchain & system security.
+- 🧑‍💻 **TryHackMe Top 1%** 
 
 ---
 
